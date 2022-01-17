@@ -127,7 +127,7 @@ let s:codi_default_interpreters = {
           \ 'prompt': '^\(>\|\.\.\.\+\) ',
           \ },
       \ 'typescript': {
-          \ 'bin': ['tsun', '--ignore-undefined'],
+          \ 'bin': ['ts-node'],
           \ 'prompt': '^\(>\|\.\.\.\+\) ',
           \ },
       \ 'coffee': {
