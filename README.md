@@ -74,7 +74,7 @@ Default interpreter dependencies:
   - Julia:        `julia`
   - Elm:          `elm`
   - Elixir:       `iex`
-  - TypeScript:   `tsun`
+  - TypeScript:   `ts-node`
   - Mathjs:       `mathjs`
   - Haxe:         `ihx` (installed with `haxelib install ihx`)
 
